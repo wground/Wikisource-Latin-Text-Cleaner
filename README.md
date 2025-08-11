@@ -1,6 +1,6 @@
 # Text Cleaner
 
-## 📝 Personal Notes
+## Personal Notes
 *Re-designed to clean a much larger data-set. Inefficient but hopefully the end product should be worthwhile.*
 ---
 
@@ -41,13 +41,3 @@ Contains hundreds of historical Latin texts including:
 - `demo_step3_logging.py` - Demo of step 3 with logging
 - `test_detailed_logging.py` - Test suite for logging functionality
 - `enhance_remaining_steps.py` - Enhancements for processing steps
-
-## Purpose
-
-This project appears to be focused on:
-1. **Text Digitization**: Processing digitized historical Latin texts
-2. **Standardization**: Normalizing spelling, formatting, and structure
-3. **Dataset Creation**: Building clean, structured datasets for research
-4. **Batch Processing**: Efficient processing of large text collections
-
-The texts appear to be primarily medieval and classical Latin works, suggesting this may be for academic research, digital humanities, or historical text analysis.
