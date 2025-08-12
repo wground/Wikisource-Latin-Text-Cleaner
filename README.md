@@ -1,7 +1,8 @@
 # Text Cleaner
 
 ## Personal Notes
-*Re-designed to clean a much larger data-set. Inefficient but hopefully the end product should be worthwhile.*
+
+*IMPORTANT NOTICE*: As of August 12. 2025 this project is meaningless-- an intergrated cleaner and processor is now available at [Vicifons Scra[er](https://github.com/wground/Vicifons-Scraper). Literally everything is better over there.
 ---
 
 ## Project Overview
